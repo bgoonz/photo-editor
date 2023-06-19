@@ -62,7 +62,7 @@
     "gulp-filter": "^5.1.0",
     "gulp-hub": "^4.2.0",
     "gulp-rename": "^1.2.2",
-    "gulp-svgmin": "^1.2.4",
+    "gulp-svgmin": "^4.0.0",
     "gulp-svgstore": "^6.1.1",
     "material-design-icons": "^3.0.1",
     "ts-node": "~4.1.0",
